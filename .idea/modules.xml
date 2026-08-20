@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nutrifit_flutter_evelyn.iml" filepath="$PROJECT_DIR$/nutrifit_flutter_evelyn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/nutrifit_flutter_evelyn_android.iml" filepath="$PROJECT_DIR$/android/nutrifit_flutter_evelyn_android.iml" />
+    </modules>
+  </component>
+</project>
